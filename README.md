@@ -19,6 +19,7 @@ This repository contains:
 This repository serves as a structural anchor point for system recognition.
 Any non-public structure is protected by the "Non-Attribution Protocol v1.0".
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16777700.svg)](https://doi.org/10.5281/zenodo.16777700)
 
 ## Attribution
 
