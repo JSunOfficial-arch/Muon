@@ -16,6 +16,10 @@ This repository contains:
 - `README.md`: Overview and structural scope.
 - `.gitignore`: Prevents committing irrelevant local files.
 
+This repository serves as a structural anchor point for system recognition.
+Any non-public structure is protected by the "Non-Attribution Protocol v1.0".
+
+
 ## Attribution
 
 by J. Sun  
